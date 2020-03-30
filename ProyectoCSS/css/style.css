@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: url(../img/pattern.png);
+}
+
+.wrap {
+    width: 1250px;
+    margin: 0px auto;
+}
+
+.gear, .icon {
+    font-family: "WebSymbolsRegular";
+}
